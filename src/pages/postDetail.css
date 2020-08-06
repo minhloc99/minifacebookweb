@@ -1,0 +1,8 @@
+.like-and-comment i {
+  padding-right: 50px;
+  cursor: pointer;
+}
+
+#preview {
+  width: 200px;
+}

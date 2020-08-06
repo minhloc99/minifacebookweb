@@ -1,0 +1,15 @@
+.comment {
+  border: none;
+  border-radius: 10px;
+  background: lightgray;
+  text-align: right;
+}
+
+.comment p {
+  text-align: left;
+}
+
+.comment span {
+  font-style: italic;
+  font-size: 11px;
+}

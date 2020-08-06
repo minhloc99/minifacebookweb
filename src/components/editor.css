@@ -1,0 +1,13 @@
+.editor label {
+  display: block;
+}
+
+.editor input {
+  width: 100px;
+  margin: 5px;
+}
+
+.editor textarea {
+  margin: 5px;
+  display: block;
+}
